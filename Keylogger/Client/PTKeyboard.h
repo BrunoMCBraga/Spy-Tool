@@ -1,0 +1,13 @@
+char shiftedNum[] = {'=','!','"', '#','$','%', '&', '/', '(', ')'};
+char rightAltNum[] = {'}' ,' ', '@', '£', '§', '€', ' ','{', '[', ']'};
+char byOne = '|';
+char shiftedStem = '?' ;
+char shiftedPlus = '*';
+char shiftedAccent ='`'; 
+char shiftedFirst = 'ª';
+char shiftedTilde = '^';
+char shiftedComma = ';';
+char shiftedPeriod = ':';
+char shiftedDash = '_';
+char shiftedQuote = '»';
+char shiftedBackSlash = '|';
